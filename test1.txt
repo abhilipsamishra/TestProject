@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F099-F170
-
- Directory of C:\MyProject
-
-02/07/2017  02:38 PM    <DIR>          .
-02/07/2017  02:38 PM    <DIR>          ..
-02/07/2017  02:38 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  264,453,107,712 bytes free
+abc
